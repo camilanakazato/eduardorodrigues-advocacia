@@ -2,7 +2,7 @@
 
 Site institucional desenvolvido para um escritório de advocacia. Projeto real, entregue a um cliente.
 
-🔗 **Site no ar:** eduardorodriguesadvocacia.netlify.app
+🔗 **Site no ar:** https://eduardorodriguesadvocacia.netlify.app/
 
 ## Sobre o projeto
 
